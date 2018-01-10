@@ -1,6 +1,6 @@
-# demo
+# 《数据库原理出卷系统》
 
-> A Vue.js project
+> A Vue.js project   相关技术：vue、vue-router、es6、webpack、element-ui
 
 ## Build Setup
 
@@ -18,4 +18,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
